@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h-rasoulpour.
-- 👀 I’m interested in learning.
+- 👀 I’m interested in sport, math and programming :) .
 - 🌱 I’m currently learning Django,Git and Docker.
 - 💞️ I’m looking to collaborate on opensource python and django projects.
 - 📫 How to reach me 
